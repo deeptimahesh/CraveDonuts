@@ -1,2 +1,4 @@
 # CraveDonuts
-A beginner venture into Blender
+A beginner venture into Blender 
+
+Credits: BlenderGuru
